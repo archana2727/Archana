@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Archana
-- 👀 I’m interested in Data and Analytics role
+- 👀 I’m interested in Data Analytics, Management, Buisness Analyst and administration  role
 - 🌱 I’m currently learning Power BI, have knowledge of SQL, Excel, Python, Data Visualization tools
-- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 💞️ I’m looking to collaborate on Analytics Projects
 - 📫 How to reach me https://www.linkedin.com/in/archana-858a13151
 
 <!---
